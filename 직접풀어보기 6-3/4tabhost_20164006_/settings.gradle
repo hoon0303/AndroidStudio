@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "4tabhost 실습_20164006_박훈"
