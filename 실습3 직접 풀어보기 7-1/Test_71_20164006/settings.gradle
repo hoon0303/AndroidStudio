@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Test_7-1_20164006(박훈)"
