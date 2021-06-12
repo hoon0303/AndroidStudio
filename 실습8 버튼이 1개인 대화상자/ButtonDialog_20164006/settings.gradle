@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "ButtonDialog_20164006"
